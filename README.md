@@ -1,4 +1,5 @@
-# Nuxt 3 Minimal Starter
+# Nuxt3のKeep Aliveの検証用
+これより以下全て、Nuxt3のテンプレートです。
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
